@@ -2,7 +2,7 @@
   "title": "前端小站",
   "author": "xianyulaodi <1009140297@qq.com>",
   "generator": "site",
-  "language": "zh-hans",
+  "language": "zh-Microsoft Yahei",
   "description": "this is a fed sites",
   "links": {
     "sharing": {
@@ -15,5 +15,12 @@
   },
   "styles": {
     "website": "styles/website.css"
-  }
+  },
+  
+  "variables": {
+    "titleDesc": "亲爱的开发者，前端小站已陪伴您度过"
+  },
+  "plugins": [
+    "pageview-count"
+  ]
 }
