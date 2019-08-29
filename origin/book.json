@@ -1,0 +1,19 @@
+{
+  "title": "前端小站",
+  "author": "xianyulaodi <1009140297@qq.com>",
+  "generator": "site",
+  "language": "zh-hans",
+  "description": "this is a fed sites",
+  "links": {
+    "sharing": {
+      "weibo": null,
+      "wechat": null
+    },
+    "sidebar": {
+      "我的博客": "https://juejin.im/user/580e222b2e958a005511179d/shares"
+    }
+  },
+  "styles": {
+    "website": "styles/website.css"
+  }
+}
