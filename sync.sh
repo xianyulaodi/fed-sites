@@ -20,6 +20,7 @@ if [[ "$?" != "0" ]]; then
 fi
 # copy the static site files into the current directory.
 \cp -Rf origin/_book/* .
+\cp -Rf origin/README.md .
 
 # remove 'node_modules' and '_book' directory
 # git clean -fx gitbook/node_modules
@@ -47,7 +48,7 @@ git add --all
 git commit -a -m "Update docs"
 
 # push to the origin
-#git push origin gh-pages
+git push origin gh-pages
 
 # checkout to the master branch
 #git checkout master
