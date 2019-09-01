@@ -1,0 +1,57 @@
+{
+  "title": "前端小站",
+  "author": "xianyulaodi <1009140297@qq.com>",
+  "generator": "site",
+  "language": "zh-Microsoft Yahei",
+  "description": "this is a fed sites",
+  "links": {
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": true,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": true,
+      "linkedin": true,
+      "messenger": false,
+      "pocket": false,
+      "qq": true,
+      "qzone": true,
+      "stumbleupon": false,
+      "twitter": false,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+          "facebook", "google", "twitter",
+          "weibo", "instapaper", "linkedin",
+          "pocket", "stumbleupon"
+      ]
+    },
+    "sidebar": {
+      "GitHub": "https://github.com/xianyulaodi/fed-sites",
+      "我的博客": "https://juejin.im/user/580e222b2e958a005511179d/shares"
+    }
+  },
+  "styles": {
+    "website": "styles/website.css"
+  },
+  
+  "variables": {
+    "titleDesc": "前端小站已陪伴您度过"
+  },
+  "plugins": [
+    "pageview-count",
+    "copy-code-button",
+    "tbfed-pagefooter"
+  ],
+  "tbfed-pagefooter": {
+    "copyright":"",
+    "modify_label": "该文件修订时间：",
+    "modify_format": "YYYY-MM-DD HH:mm:ss"
+  },
+  "github": {
+    "url": "https://github.com/xianyulaodi/fed-sites"
+  }
+}
