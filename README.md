@@ -5,6 +5,14 @@
 
   主要介绍前端技术栈的一些文章、工具、有趣的开源项目等
 
+  文章结构大概如下：
+
+  * `技术文章推荐`： 文章不在乎多，一次只推荐2到3篇
+
+  * `个人成长类`： 推荐一些个人成长类的文章，1~3篇
+
+  * `自定义栏`： 推荐内容不定，可能是一句鸡汤、一段笑话、一些感悟啥的
+
 
 ## 项目产生背景
 
@@ -20,18 +28,53 @@
 
 
 
-## 项目组成
-
-项目主要由以下几部分组成，有价值的文章、一些工具介绍、一句笑话或者一段段子又或者一句鸡汤文
-
-
 ## 项目地址
 
 > 访问地址： [https://xianyulaodi.github.io/fed-sites](https://xianyulaodi.github.io/fed-sites)
 
-> 项目地址： [https://github.com/xianyulaodi/fed-sites](https://github.com/xianyulaodi/fed-sites)
+> 项目源码： [https://github.com/xianyulaodi/fed-sites](https://github.com/xianyulaodi/fed-sites)
 
 欢迎点start、或者提 issues
+
+
+## 文章来源
+
+文章思路来源以下一些地址：
+
+1. [Hacker News](https://news.ycombinator.com/)
+
+2. [Medium](https://medium.com/)
+
+3. [Dev.to](https://dev.to/)
+
+4. [node中文社区](http://nodejs.cn/)
+
+5. [前端里](http://www.yyyweb.com/)
+
+6. [infoq](https://www.infoq.cn)
+
+7. [博客园](https://www.cnblogs.com/)
+
+8. [阮一峰](http://www.ruanyifeng.com/blog/)
+
+9. [GitHub 关注](https://github.com/)
+
+10. [V2EX](https://www.v2ex.com/)
+
+11. [Ruby China](https://ruby-china.org/)
+
+12. [GitHub Trending](https://github.com/trending)
+
+13. [掘金](https://juejin.im/)
+
+14. [OS China](https://www.oschina.net/)
+
+15. [DEVURLS](https://devurls.com/)
+
+16. [Hashnode](https://hashnode.com/)
+
+17. [React Status](https://react.statuscode.com/)
+
 
 
 ## 更新
@@ -41,4 +84,14 @@
 
 ## 站点风格及形式参考：
 
-[https://wubaiqing.github.io/zaobao/](https://wubaiqing.github.io/zaobao/)
+本站点的风格以及形式参考： [每日时报](https://wubaiqing.github.io/zaobao/)
+
+
+## 后记
+
+目前`前端小站`还很年轻，刚起步，文章也不是很多，如果你有很好的文章，可以在 github上 提 issues 给我哦
+
+立个flag，持续更新一年
+ 
+
+
