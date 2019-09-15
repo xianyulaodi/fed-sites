@@ -54,7 +54,7 @@
       "url": "https://github.com/xianyulaodi/fed-sites"
     },
     "donate": {
-      "wechat": "/images/wechat_qr.png",
+      "wechat": "https://xianyulaodi.github.io/fed-sites/images/wechat_qr.png",
       "title": "",
       "button": "打赏博主",
       "wechatText": "请博主喝咖啡"
