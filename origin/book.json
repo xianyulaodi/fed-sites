@@ -39,19 +39,30 @@
   },
   
   "variables": {
-    "titleDesc": "前端小站已陪伴您度过"
+    "titleDesc": "，前端小站已陪伴您度过"
   },
   "plugins": [
     "pageview-count",
     "copy-code-button",
-    "tbfed-pagefooter"
+    "tbfed-pagefooter",
+    "github",
+    "back-to-top-button",
+    "donate"
   ],
-  "tbfed-pagefooter": {
-    "copyright":"",
-    "modify_label": "该文件修订时间：",
-    "modify_format": "YYYY-MM-DD HH:mm:ss"
-  },
-  "github": {
-    "url": "https://github.com/xianyulaodi/fed-sites"
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/xianyulaodi/fed-sites"
+    },
+    "donate": {
+      "wechat": "/images/wechat_qr.png",
+      "title": "",
+      "button": "打赏博主",
+      "wechatText": "请博主喝咖啡"
+    },
+    "tbfed-pagefooter": {
+      "copyright":"",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
   }
 }
