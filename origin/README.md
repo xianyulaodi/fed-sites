@@ -47,7 +47,7 @@
 
 3. [Dev.to](https://dev.to/)
 
-4. [node中文社区](http://nodejs.cn/)
+4. [node中文社区](https://cnodejs.org/)
 
 5. [前端里](http://www.yyyweb.com/)
 
@@ -74,6 +74,9 @@
 16. [Hashnode](https://hashnode.com/)
 
 17. [React Status](https://react.statuscode.com/)
+
+18. [《阿里云前端技术周刊》](https://github.com/aliyunfe/weekly)
+
 
 
 
