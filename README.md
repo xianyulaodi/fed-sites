@@ -77,6 +77,10 @@
 
 18. [《阿里云前端技术周刊》](https://github.com/aliyunfe/weekly)
 
+19. [http://geekdocs.cn/](http://geekdocs.cn/)
+
+20. [http://d2daily.com/](http://d2daily.com/)
+
 
 
 
