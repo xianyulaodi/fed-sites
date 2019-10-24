@@ -39,7 +39,7 @@
   },
   
   "variables": {
-    "titleDesc": "，嗨，这是前端小站陪您的第"
+    "titleDesc": "，嗨，这是前端小站陪您的"
   },
   "plugins": [
     "pageview-count",
