@@ -73,13 +73,12 @@
 
 16. [Hashnode](https://hashnode.com/)
 
-17. [React Status](https://react.statuscode.com/)
+17. [segmentfault](https://segmentfault.com/)
 
 18. [《阿里云前端技术周刊》](https://github.com/aliyunfe/weekly)
 
 19. [http://geekdocs.cn/](http://geekdocs.cn/)
 
-20. [http://d2daily.com/](http://d2daily.com/)
 
 
 
