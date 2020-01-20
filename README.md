@@ -27,7 +27,6 @@
 3. 给前端界留下点什么，当哪一天我不在前端界了，希望前端界还能诉说一下，哦，那我知道他了，那个网站就是他维护的， ~2333
 
 
-
 ## 项目地址
 
 > 访问地址： [https://xianyulaodi.github.io/fed-sites](https://xianyulaodi.github.io/fed-sites)
@@ -41,56 +40,22 @@
 
 文章思路来源以下一些地址：
 
-1. [Hacker News](https://news.ycombinator.com/)
+[node中文社区](https://cnodejs.org/)、[前端里](http://www.yyyweb.com/)、[infoq](https://www.infoq.cn)
 
-2. [Medium](https://medium.com/)
+[博客园](https://www.cnblogs.com/)、[百度技术周刊](http://fex.baidu.com/)、[阮一峰](http://www.ruanyifeng.com/blog/)
 
-3. [Dev.to](https://dev.to/)
+[GitHub 关注](https://github.com/)、[V2EX](https://www.v2ex.com/)、[GitHub Trending](https://github.com/trending)
 
-4. [node中文社区](https://cnodejs.org/)
+[掘金](https://juejin.im/)、 [DEVURLS](https://devurls.com/)、[Hashnode](https://hashnode.com/)
 
-5. [前端里](http://www.yyyweb.com/)
+[segmentfault](https://segmentfault.com/)、[《阿里云前端技术周刊》](https://github.com/aliyunfe/weekly)、[http://geekdocs.cn/](http://geekdocs.cn/)
 
-6. [infoq](https://www.infoq.cn)
-
-7. [博客园](https://www.cnblogs.com/)
-
-8. [阮一峰](http://www.ruanyifeng.com/blog/)
-
-9. [GitHub 关注](https://github.com/)
-
-10. [V2EX](https://www.v2ex.com/)
-
-11. [Ruby China](https://ruby-china.org/)
-
-12. [GitHub Trending](https://github.com/trending)
-
-13. [掘金](https://juejin.im/)
-
-14. [OS China](https://www.oschina.net/)
-
-15. [DEVURLS](https://devurls.com/)
-
-16. [Hashnode](https://hashnode.com/)
-
-17. [segmentfault](https://segmentfault.com/)
-
-18. [《阿里云前端技术周刊》](https://github.com/aliyunfe/weekly)
-
-19. [http://geekdocs.cn/](http://geekdocs.cn/)
-
-
-
+[每日时报](https://wubaiqing.github.io/zaobao/)、[美团技术团队](https://tech.meituan.com/)
 
 
 ## 更新
 
 做到每日更新有点困难，所以这个项目的更新时间为，一周更新三篇，每周一、三、五更新
-
-
-## 站点风格及形式参考：
-
-本站点的风格以及形式参考： [每日时报](https://wubaiqing.github.io/zaobao/)
 
 
 ## 后记
